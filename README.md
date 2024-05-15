@@ -17,8 +17,10 @@ Tokenization using pre-trained BERT
 LIME (Local Interpretable Model-agnostic Explanations) to understand the model's procedure
 Models:
 
-# Base Models: Bidirectional GRU (Bi-GRU), Bidirectional LSTM (Bi-LSTM), Convolutional Neural Networks (CNN)
-# Meta Classifier: Random Forest
+# Base Models: 
+ Bidirectional GRU (Bi-GRU), Bidirectional LSTM (Bi-LSTM), Convolutional Neural Networks (CNN)
+# Meta Classifier: 
+ Random Forest
 # Performance:
 Accuracy: 98.79%
 Precision: 99.17%
