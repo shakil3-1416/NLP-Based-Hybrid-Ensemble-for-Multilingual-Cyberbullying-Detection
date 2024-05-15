@@ -1,0 +1,2 @@
+# NLP-Based-Hybrid-Ensemble-for-Multilingual-Cyberbullying-Detection
+This repository contains the implementation of a D-Ensemble model based on deep learning techniques to identify and remove cyberbullying comments, tested on English, Turkish, and Bengali datasets. The primary focus is on the Bengali dataset, but the D-Ensemble model's efficiency is also evaluated using Turkish and English languages.
